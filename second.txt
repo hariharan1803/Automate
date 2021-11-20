@@ -1,13 +1,6 @@
-this is 1 fline
-
-
+this is 1 flin
 what is the good news
-
-
-
 want to check branch
-
 erified the new creation of branch
-
-
 one more commit to branch
+nested branch
